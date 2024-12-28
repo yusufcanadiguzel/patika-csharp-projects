@@ -2,4 +2,6 @@
 
 //FibonacciAverage.GetFibonacciAverage();
 
-DrawTriangle.GetTriangle();
+//DrawTriangle.GetTriangle();
+
+DrawCircle.GetCircle();
