@@ -1,3 +1,5 @@
 ﻿using PatikaProjects.ConsoleUI;
 
-FibonacciAverage.GetFibonacciAverage();
+//FibonacciAverage.GetFibonacciAverage();
+
+DrawTriangle.GetTriangle();
