@@ -8,4 +8,6 @@
 
 //RemoveAtIndex.RemoveCharacter();
 
-ReverseText.Reverse();
+//ReverseText.Reverse();
+
+AreaCalculator.Calculate();
