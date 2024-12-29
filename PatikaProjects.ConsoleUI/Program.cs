@@ -10,4 +10,6 @@
 
 //ReverseText.Reverse();
 
-AreaCalculator.Calculate();
+//AreaCalculator.Calculate();
+
+IntegerCouples.Run();
