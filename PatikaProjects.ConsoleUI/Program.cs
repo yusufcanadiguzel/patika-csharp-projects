@@ -6,4 +6,6 @@
 
 //DrawCircle.GetCircle();
 
-RemoveAtIndex.RemoveCharacter();
+//RemoveAtIndex.RemoveCharacter();
+
+ReverseText.Reverse();
