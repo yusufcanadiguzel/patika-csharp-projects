@@ -16,4 +16,6 @@
 
 //AbsolutePow.Run();
 
-ReverseCharacters.Run();
+//ReverseCharacters.Run();
+
+CheckConsonants.Run();
