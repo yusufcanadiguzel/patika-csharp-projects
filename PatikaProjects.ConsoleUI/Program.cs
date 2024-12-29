@@ -4,4 +4,6 @@
 
 //DrawTriangle.GetTriangle();
 
-DrawCircle.GetCircle();
+//DrawCircle.GetCircle();
+
+RemoveAtIndex.RemoveCharacter();
