@@ -12,4 +12,6 @@
 
 //AreaCalculator.Calculate();
 
-IntegerCouples.Run();
+//IntegerCouples.Run();
+
+AbsolutePow.Run();
